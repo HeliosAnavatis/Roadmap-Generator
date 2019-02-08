@@ -1,0 +1,59 @@
+# Input filenames (specify more than one with multiple "infile=" lines)
+infile=Technology Roadmap - Core Platform.csv
+
+# Output filename
+outfile=infrastructure_roadmap.graphml
+
+# Roadmap title
+title=CCS Infrastructure Roadmap
+
+# Whether or not to include a legend (default = false)
+legend=true
+
+# Classification (no classification line if this setting is omitted)
+classification=OFFICIAL
+
+# Show a date (no date if omitted)
+# Use Date::Format conventions
+date=%h %Y
+
+# Define the colours of the lines (Pantone colour)
+# Central (485)
+lineColor=#D81E05
+
+# Piccadilly (072)
+lineColor=#10069F
+
+# Circle (116)
+lineColor=#FCD116
+
+# District (356)
+lineColor=#007A3D
+
+# Metropolitan (235)
+lineColor=#8E0554
+
+# Hammersmith & City (197)
+lineColor=#F6A5BE
+
+# Victoria (299)
+lineColor=#00A3DD
+
+# Jubilee (430)
+lineColor=#919693
+
+# Bakerloo (470)
+lineColor=#9B4F19
+
+# Northern (Black)
+lineColor=#000000
+
+# Waterloo & City (338)
+lineColor=#7AD1B5
+
+# Overground (158)
+lineColor=#E87511
+
+# East London (137)
+lineColor=#FCA311
+
